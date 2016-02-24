@@ -1,5 +1,9 @@
 # stack-radar
 The technologies I'm currently watching
 
-* [domvm](https://github.com/leeoniya/domvm) A promising virtualDOM library
-* [nwjs](https://github.com/nwjs/nw.js) (node + webkit) ti make native web apps
+* https://github.com/dhg/Skeleton Responsive CSS
+* https://github.com/nwjs/nw.js (node + webkit) To make native web apps
+* https://github.com/antimatter15/ocrad.js OCR in javascript
+* https://github.com/google/material-design-lite Material Design CSS lib
+* https://github.com/ghinda/jotted For showcasing HTML, CSS, and javascript
+* https://github.com/gogits/gogs Git server
